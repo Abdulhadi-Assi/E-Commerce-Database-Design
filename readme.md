@@ -1,12 +1,11 @@
 
 # E-Commerce Database Design
 
-<h4> 
+<p> 
 In the dynamic world of e-commerce, efficient database design is crucial for managing vast amounts of data and delivering seamless user experiences.
-<br>
 
 This repository contains a comprehensive database design for an e-commerce website, featuring the Entity Relationship Diagram (ERD), frequently used queries, challenges encountered, and optimizations applied while working with a large dataset of approximately 10 million rows.
-</h4>
+</p>
 
 ## 1. Entity Relationship Diagram (ERD)
 
